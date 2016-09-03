@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2015\Projects\RDP-Server\RDP-Server\bin\Debug\RDP-Server.exe.config
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\bin\Debug\RDP-Server.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\bin\Debug\RDP-Server.pdb
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP-Server.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP_Server.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP_Server.Properties.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP-Server.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP-Server.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\RDP-Server\RDP-Server\obj\Debug\RDP-Server.pdb
